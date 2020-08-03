@@ -1,0 +1,10 @@
+C:\Users\keleb\source\repos\ABC_Algoritmasi\ABC_Algoritmasi\bin\Debug\ABC_Algoritmasi.exe.config
+C:\Users\keleb\source\repos\ABC_Algoritmasi\ABC_Algoritmasi\bin\Debug\ABC_Algoritmasi.exe
+C:\Users\keleb\source\repos\ABC_Algoritmasi\ABC_Algoritmasi\bin\Debug\ABC_Algoritmasi.pdb
+C:\Users\keleb\source\repos\ABC_Algoritmasi\ABC_Algoritmasi\obj\Debug\ABC_Algoritmasi.csprojAssemblyReference.cache
+C:\Users\keleb\source\repos\ABC_Algoritmasi\ABC_Algoritmasi\obj\Debug\ABC_Algoritmasi.Form1.resources
+C:\Users\keleb\source\repos\ABC_Algoritmasi\ABC_Algoritmasi\obj\Debug\ABC_Algoritmasi.Properties.Resources.resources
+C:\Users\keleb\source\repos\ABC_Algoritmasi\ABC_Algoritmasi\obj\Debug\ABC_Algoritmasi.csproj.GenerateResource.cache
+C:\Users\keleb\source\repos\ABC_Algoritmasi\ABC_Algoritmasi\obj\Debug\ABC_Algoritmasi.csproj.CoreCompileInputs.cache
+C:\Users\keleb\source\repos\ABC_Algoritmasi\ABC_Algoritmasi\obj\Debug\ABC_Algoritmasi.exe
+C:\Users\keleb\source\repos\ABC_Algoritmasi\ABC_Algoritmasi\obj\Debug\ABC_Algoritmasi.pdb
